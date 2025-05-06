@@ -1,2 +1,1 @@
-# projetosColaborativos
-Repositório onde as participantes podem se envolver em projetos colaborativos. Pode incluir projetos de código aberto ou ideias de projetos a serem desenvolvidos em grupo.
+Este repositório é para projetos colaborativos, onde as participantes podem trabalhar juntas em um projeto de código aberto ou desenvolver novas ideias para a comunidade
